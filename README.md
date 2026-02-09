@@ -1,3 +1,3 @@
 # odin-recipes
 
-setting up ssh repo
+setting up ssh repo~
