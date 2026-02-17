@@ -1,0 +1,40 @@
+@import url(css/chillax.css);
+
+
+body {
+    font-family: "Chillax-light";
+    ,
+    serif
+}
+
+body {
+    color: whitesmoke;
+    background: #301212;
+    background: radial-gradient(circle, rgba(48, 18, 18, 1) 9%, rgba(74, 57, 57, 1) 50%, rgba(20, 18, 0, 1) 100%);
+
+}
+
+.recipe-list {
+    background-color: beige;
+    padding: 10px;
+
+}
+
+.recipe-list li {
+    color: whitesmoke;
+    padding: 2rem;
+
+    font-size: 2rem;
+}
+
+h1 {
+    text-align: center;
+    font-variation-settings: calc(200);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
