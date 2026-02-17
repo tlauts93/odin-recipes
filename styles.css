@@ -15,7 +15,7 @@ body {
 }
 
 .recipe-list {
-    background-color: beige;
+
     padding: 10px;
 
 }
@@ -23,8 +23,12 @@ body {
 .recipe-list li {
     color: whitesmoke;
     padding: 2rem;
-
     font-size: 2rem;
+
+}
+
+a {
+    color: whitesmoke;
 }
 
 h1 {
